@@ -30,7 +30,7 @@
     "webpack-dev-server": "^3.11.2"
   },
   "dependencies": {
-    "@zappar/zappar-threejs": "^2.0.0-beta.8",
+    "@zappar/zappar-threejs": "^2.0.0-beta.10",
     "three": "^0.130.1"
   }
 }
